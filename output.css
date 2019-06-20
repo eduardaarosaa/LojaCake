@@ -1,0 +1,19 @@
+body {
+  background-color: #DDA0DD;
+}
+
+.class-white {
+  width: 100%;
+  height: 50%;
+  background-color: #fff;
+}
+
+p {
+  text-align: justify;
+}
+
+.waves-light {
+  background-color: #E2686D !important;
+}
+
+/*# sourceMappingURL=output.css.map */
